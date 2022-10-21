@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    color: white;
+    text-align: center;
+    background-color: mediumpurple;
+    font-family: 'Dead Space', sans-serif;
+    font-size: large;
+                                                
+    /* 
+    Set the font family here. 
+    */
+    }
+
+    #hero {
+        background-image: url("images/galaxy.webp");
+        background-size: cover;
+        padding: 10px 0 40px 0;
+    }
+
+    #main-logo {
+        width: 200px;
+    }
+
+    #title {
+        text-shadow: 2px 2px 4px black;
+    }
+
+    .small-head {
+        color: black;
+        text-shadow: 0px 0px 10px white;
+    }
+
+.btn {
+    color: steelblue;
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: orbitron;       
+    /* 
+    You'll need to do something here as well!
+    Can you spot what it is?
+    */
+}
+
+.underline {  
+    padding: 5px 10px;
+}
+
+h3 {
+    font-family: orbitron;
+}
+
+p {
+    color: gainsboro;
+    font-family: orbitron;
+    font-size: large;
+    font-style: italic;
+    text-align: center;
+}
